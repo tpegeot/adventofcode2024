@@ -26,7 +26,7 @@ def part1(_data):
 
 def part2(_data):
     """
-    Part 1
+    Part 2
     """
     left = list(_data['list1'])
     right = list(_data['list2'])
